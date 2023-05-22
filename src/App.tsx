@@ -9,7 +9,6 @@ import { MonacoEditor } from "./Editor";
 function App() {
   return (
     <div className="container">
-      <h1>Test</h1>
       <div>
         <SandpackProvider template="react" theme="dark">
           <SandpackLayout>
